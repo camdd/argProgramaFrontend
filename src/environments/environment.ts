@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiBaseUrl: 'https://appcamsi.herokuapp.com/'
+  apiBaseUrl: 'https://appcamsi.herokuapp.com'
 };
 
 /*

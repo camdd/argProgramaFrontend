@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiBaseUrl: 'https://appcamsi.herokuapp.com/'
+  apiBaseUrl: 'https://appcamsi.herokuapp.com'
 };
